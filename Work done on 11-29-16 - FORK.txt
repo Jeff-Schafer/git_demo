@@ -1,0 +1,4 @@
+1. Forked the git_demo/demo_index.html file.
+2. Added info.
+3. Git add . command.
+4. Git push command to update the main version on https://github.com/Jeff-Schafer/git_demo/blob/master/demo_index.html.
